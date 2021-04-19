@@ -21,6 +21,6 @@
         </style>
     </head>
     <body class="antialiased">
-            <h1>Hi Allan this is a Laravel app</h1>
+            <h1>Hi Afasha this is a Laravel app</h1>
     </body>
 </html>
